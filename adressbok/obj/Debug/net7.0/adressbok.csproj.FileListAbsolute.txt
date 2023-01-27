@@ -1,0 +1,15 @@
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\bin\Debug\net7.0\adressbok.exe
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\bin\Debug\net7.0\adressbok.deps.json
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\bin\Debug\net7.0\adressbok.runtimeconfig.json
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\bin\Debug\net7.0\adressbok.dll
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\bin\Debug\net7.0\adressbok.pdb
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.csproj.AssemblyReference.cache
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.AssemblyInfoInputs.cache
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.AssemblyInfo.cs
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.csproj.CoreCompileInputs.cache
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.dll
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\refint\adressbok.dll
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.pdb
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\adressbok.genruntimeconfig.cache
+C:\Users\46703\OneDrive\Skrivbord\Win22\adressbok\adressbok\obj\Debug\net7.0\ref\adressbok.dll
