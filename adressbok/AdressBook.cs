@@ -18,6 +18,18 @@ namespace adressbok
         {
             _contacts.Add(contact);
         }
+        public void RemoveContactByName(string name)
+        {
+            if (name== null)
+            {
+                Console.WriteLine("Contact not found");
+            }
+            else
+            {
+                 _contacts.Remove(_contacts.First(contact => contact.Name == name));
+            }
+           
+        }
 
         private void DisplayContactsDetails(List<Contact> contacts) 
         {
@@ -45,6 +57,11 @@ namespace adressbok
                DisplayContactsDetails(matchingContacts);
             }
             
+        }
+
+        internal void RemoveContactByName()
+        {
+            throw new NotImplementedException();
         }
     }   
 }
