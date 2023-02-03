@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace adressbok
 {
-    internal class Contact
+    public class Contact
     {
        public Contact(string name, string number, string email, string adress) 
         {

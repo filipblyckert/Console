@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace adressbok
 {
-    internal class AdressBook
+    public class AdressBook
     {
-        private List<Contact> _contacts { get; set; } = new List<Contact>();
+        public List<Contact> _contacts { get; set; } = new List<Contact>();
         private void DisplayContactDetails(Contact contact)
         {
             Console.WriteLine($"Contact:{contact.Name}, {contact.Number}, {contact.Email}, {contact.Adress}");

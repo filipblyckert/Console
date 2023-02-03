@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adressbok", "adressbok\adressbok.csproj", "{7786EC46-FF00-4271-A48C-E4AD2EFB68DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "adressbok", "adressbok\adressbok.csproj", "{7786EC46-FF00-4271-A48C-E4AD2EFB68DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{A3298E48-643D-44B3-A28A-E7BA3C9A663A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7786EC46-FF00-4271-A48C-E4AD2EFB68DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7786EC46-FF00-4271-A48C-E4AD2EFB68DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7786EC46-FF00-4271-A48C-E4AD2EFB68DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3298E48-643D-44B3-A28A-E7BA3C9A663A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3298E48-643D-44B3-A28A-E7BA3C9A663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3298E48-643D-44B3-A28A-E7BA3C9A663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3298E48-643D-44B3-A28A-E7BA3C9A663A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
